@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alsocerer
+- 👋 Hi, I’m @alsocerer (Alexis Garcia)
 - 👀 I’m interested in music and games
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on anything related to both music and CS
